@@ -7,7 +7,7 @@ Citation:
 
 **A Comprehensive Atlas of Cell Type Density Patterns and Their Role in Brain Organization**
 
-Rodrigo Muñoz-Castañeda*, Ramesh Palaniswamy, Jason Palmer, Rhonda Drewes, Corey Elowsky, Karla E. Hirokawa, Nicholas Cain, Kannan Umadevi Venkataraju, Hong-Wei Dong, Julie A. Harris, Zhuhao Wu, Pavel Osten*
+Rodrigo Muñoz-Castañeda#, Ramesh Palaniswamy, Jason Palmer, Rhonda Drewes, Corey Elowsky, Karla E. Hirokawa, Nicholas Cain, Kannan Umadevi Venkataraju, Hong-Wei Dong, Julie A. Harris, Zhuhao Wu, Pavel Osten#
 
 bioRxiv 2024.10.02.615922; doi: https://doi.org/10.1101/2024.10.02.615922
 
