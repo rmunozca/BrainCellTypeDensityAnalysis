@@ -17,3 +17,6 @@ bioRxiv 2024.10.02.615922; doi: https://doi.org/10.1101/2024.10.02.615922
 <img width="539" alt="Screenshot 2025-04-08 at 5 35 18 PM" src="https://github.com/user-attachments/assets/5523fb87-039c-4e12-ba53-092fee5aca88" />
 
 
+
+
+The datasets used in this paper have been deposited for access at: http://download.brainimagelibrary.org/biccn/osten/cellcounting/ 
