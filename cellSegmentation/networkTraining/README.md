@@ -54,9 +54,4 @@ To change the model backbone or input size:
 - Deep Learning Toolbox
 - Computer Vision Toolbox
 
----
-
-## 📜 License
-
-This code is intended for research use. Please cite the author if used in publications.
 
