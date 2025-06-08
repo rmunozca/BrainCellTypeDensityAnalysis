@@ -1,3 +1,4 @@
+# Brain Cell-Type Density Analysis
 
 Pipeline for registaring, analyzing and visualizing neuroanatomical point cloud data from whole brain imaging. The registration pipeline uses affine and b-spline transformations using intrinsic anatomical features with Elastix. 
 The density-based analysis pipeline uses DBSCAN (Density-Based Spatial Clustering of Applications with Noise) to identify clusters of neuronal cells and visualize their spatial distribution in 3D.
