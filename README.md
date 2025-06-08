@@ -29,9 +29,8 @@ bioRxiv 2024.10.02.615922; doi: https://doi.org/10.1101/2024.10.02.615922
 The datasets used in this paper have been deposited for access at: http://download.brainimagelibrary.org/biccn/osten/cellcounting/ 
 
 
-## Components
 
-### 1. High-Resolution Image Registration (MATLAB)
+## High-Resolution Image Registration (MATLAB)
 
 | File | Purpose |
 |------|---------|
@@ -47,47 +46,13 @@ bash scripts/run_FullResolutionReg.sh
 
 ---
 
-### 2. DBSCAN Clustering (Python)
-
-Cluster cellular point cloud data saved in `.mat` files.
-
-```bash
-python run_clustering.py \
-    --input_dir path/to/mat_files \
-    --output_dir path/to/save_labels \
-    --eps 25 \
-    --min_samples 10
-```
-
-Output: `.npy` files with cluster labels.
-
----
-
-### 3. Visualization of Clustered Data (Python)
-
-Render `.ply` outputs from DBSCAN results.
-```bash
-python run_processing.py \
-    --input_dir path/to/ply_files
-```
-
-Each file is saved as a PNG image.
-
----
-
 ## Requirements
 
 ### MATLAB
 - R2021a+ with Image Processing Toolbox
-- ANTs (if required by registration pipeline)
+- Elastix (if required by registration pipeline)
 
 ### Python
-Install dependencies via pip:
-```bash
-pip install -r requirements.txt
-```
-
-**requirements.txt** includes:
 - numpy
 - scipy
 - open3d
