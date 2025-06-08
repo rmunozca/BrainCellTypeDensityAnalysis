@@ -42,7 +42,6 @@ The datasets used in this paper have been deposited for access at: http://downlo
 | `registerWholeBrain.m` | Aligns whole-brain volume to reference space |
 | `registerBrainSlice.m` | Optional slice-level refinement |
 | `run_FullResolutionReg.sh` | Bash script to automate full registration pipeline |
-| `nrrdread.m` | ⚠️ **Not included**. |
 
 To run:
 ```bash
