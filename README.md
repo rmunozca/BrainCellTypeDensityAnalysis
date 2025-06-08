@@ -5,10 +5,14 @@ The density-based analysis pipeline uses DBSCAN (Density-Based Spatial Clusterin
 
 This repository provides a modular and reproducible pipeline for:
 
-1 - Whole-brain 3D registration.
+1 - Whole-brain 3D registration
+
 2 - Whole-brain 3D transformation at high resolution
-3 - 3D point cloud clustering using DBSCAN.
-4 - Visualization and analysis of clustered cellular data.
+
+3 - 3D point cloud clustering using DBSCAN
+
+
+4 - Visualization and analysis of clustered cellular data
 
 
 Citation:
