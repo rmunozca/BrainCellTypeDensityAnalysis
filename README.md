@@ -11,7 +11,6 @@ This repository provides a modular and reproducible pipeline for:
 
 3 - 3D point cloud clustering using DBSCAN
 
-
 4 - Visualization and analysis of clustered cellular data
 
 
