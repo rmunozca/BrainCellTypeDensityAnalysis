@@ -1,3 +1,5 @@
+ [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+ 
 # Brain Cell-Type Density Analysis
 
 Pipeline for registaring, analyzing and visualizing neuroanatomical point cloud data from whole brain imaging. The registration pipeline uses affine and b-spline transformations using intrinsic anatomical features with Elastix. 
