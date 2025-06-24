@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following paper:"
+title: "A Comprehensive Atlas of Cell Type Density Patterns and Their Role in Brain Organization"
+authors:
+  - family-names: Muñoz-Castañeda
+    given-names: Rodrigo
+    orcid: https://orcid.org/0000-0002-XXXX-XXXX
+  - family-names: Palaniswamy
+    given-names: Ramesh
+  - family-names: Palmer
+    given-names: Jason
+  - family-names: Drewes
+    given-names: Rhonda
+  - family-names: Elowsky
+    given-names: Corey
+  - family-names: Hirokawa
+    given-names: Karla E.
+  - family-names: Cain
+    given-names: Nicholas
+  - family-names: Venkataraju
+    given-names: Kannan Umadevi
+  - family-names: Dong
+    given-names: Hong-Wei
+  - family-names: Harris
+    given-names: Julie A.
+  - family-names: Wu
+    given-names: Zhuhao
+  - family-names: Osten
+    given-names: Pavel
+    orcid: https://orcid.org/0000-0002-XXXX-XXXX
+date-released: 2024-10-02
+doi: 10.1101/2024.10.02.615922
+url: https://doi.org/10.1101/2024.10.02.615922
+version: 1.0.0
+type: article
